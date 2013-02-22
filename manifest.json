@@ -1,0 +1,18 @@
+{
+  "version": "0.3.1",
+  "manifest_version": 5,
+  "name": "Github Gemnasium",
+  "description": "Display dependancies next to the project name on Github.",
+
+  "icons": {
+    "16":  "icon-16.png",
+    "48":  "icon-48.png",
+    "128": "icon-128.png"
+  },
+
+  "content_scripts": [ {
+    "js":      [ "script.js" ],
+    "matches": [ "https://github.com/*" ],
+    "run_at":  "document_idle"
+  } ]
+}
