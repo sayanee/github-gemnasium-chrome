@@ -1,5 +1,3 @@
-[![Dependancy Status](https://gemnasium.com/sayanee/github-gemnasium-chrome.png)](http://gemnasium.com/sayanee/github-gemnasium-chrome) [![Build Status](https://travis-ci.org/sayanee/github-gemnasium-chrome.png?branch=master)](https://travis-ci.org/sayanee/github-gemnasium-chrome) 
-
 #Github Gemnasium
 
 A [Chrome](https://www.google.com/intl/en/chrome/browser/) extension to see your project dependancies as collated by [Gemnasium](https://gemnasium.com/) beside the project name on [Github](https://github.com/). 
