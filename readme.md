@@ -1,4 +1,4 @@
-[![Dependancy Status](http://gemnasium.com/sayanee/github-gemnasium-chrome.png)](http://gemnasium.com/sayanee/github-gemnasium-chrome.png) [![Build Status](https://travis-ci.org/sayanee/github-gemnasium-chrome.png?branch=master)](https://travis-ci.org/sayanee/github-gemnasium-chrome) 
+[![Dependancy Status](https://gemnasium.com/sayanee/github-gemnasium-chrome.png)](http://gemnasium.com/sayanee/github-gemnasium-chrome) [![Build Status](https://travis-ci.org/sayanee/github-gemnasium-chrome.png?branch=master)](https://travis-ci.org/sayanee/github-gemnasium-chrome) 
 
 #Github Gemnasium
 
