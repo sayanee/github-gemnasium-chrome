@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     compress: {
       main: {
         options: {
-          archive: 'github-gemnasium-chrome-extension.zip'
+          archive: 'github-gemnasium-chrome-extension-<%= pkg.version %>.zip'
         },
         files: [
           { src: ['publish/*'], dest: '/', filter: 'isFile'}
