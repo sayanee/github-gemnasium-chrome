@@ -16,7 +16,7 @@ A [Chrome](https://www.google.com/intl/en/chrome/browser/) extension to see your
 
 ##Development
 
-1. Increase the `version` and `manifest_version` in the file `manifest.json`
+1. Increase the `version` according to [Semantic Versioning](http://semver.org/)
 1. In the command line run `grunt` to create the `zip` folder
 2. Upload the [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) and see the dependancy status
 
