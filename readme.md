@@ -1,8 +1,9 @@
 #Github Gemnasium
 
-A [Chrome](https://www.google.com/intl/en/chrome/browser/) extension to see your project dependancies as collated by [Gemnasium](https://gemnasium.com/) beside the project name on [Github](https://github.com/). 
+A [Chrome](https://www.google.com/intl/en/chrome/browser/) extension to see your project dependancies as collated by [Gemnasium](https://gemnasium.com/) beside the project name on [Github](https://github.com/). Get the [Chrome Extension download link](https://chrome.google.com/webstore/detail/github-gemnasium/ofagmhdacmjmedooocoglnhfpfenjfkk).
 
-> [Chrome Extension download link](https://chrome.google.com/webstore/detail/github-gemnasium/ofagmhdacmjmedooocoglnhfpfenjfkk)
+[![Dependency Status](https://gemnasium.com/sayanee/github-gemnasium-chrome.png)](https://gemnasium.com/sayanee/github-gemnasium-chrome)
+[![Build Status](https://travis-ci.org/sayanee/github-gemnasium-chrome.png?branch=master)](https://travis-ci.org/sayanee/github-gemnasium-chrome)
 
 ![Github Gemnasium Chrome Extension](screenshot.jpg)
 
@@ -16,6 +17,7 @@ A [Chrome](https://www.google.com/intl/en/chrome/browser/) extension to see your
 
 ##Development
 
+1. `npm install` to install all the relevant packages
 1. Increase the `version` according to [Semantic Versioning](http://semver.org/)
 1. In the command line run `grunt` to create the `zip` folder
 2. Upload the [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) and see the dependancy status
