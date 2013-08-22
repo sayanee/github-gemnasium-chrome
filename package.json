@@ -1,12 +1,13 @@
 {
   "name": "github-gemnasium-chrome-extension",
-  "version": "0.0.1",
+  "version": "0.3.3",
   "private": true,
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "grunt --verbose"
   },
   "dependencies": {
-    "grunt": "0.4.0",
+    "grunt": "0.4.1",
+    "grunt-cli": "*",
     "grunt-contrib-clean": "*",
     "grunt-contrib-copy": "*",
     "grunt-contrib-compress": "*"
