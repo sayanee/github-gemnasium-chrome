@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "grunt": "0.4.1",
-    "grunt-cli": "*",
-    "grunt-contrib-clean": "*",
-    "grunt-contrib-copy": "*",
-    "grunt-contrib-compress": "*"
+    "grunt-cli": "0.1.9",
+    "grunt-contrib-clean": "0.5.0",
+    "grunt-contrib-compress": "0.5.2",
+    "grunt-contrib-copy": "0.4.1",
   }
 }
